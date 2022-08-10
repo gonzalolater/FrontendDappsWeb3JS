@@ -1,7 +1,8 @@
 # FrontendDapps
  Curso de desarrollo Frontend de Aplicaciones Descentralizadas con web3.js
-
-
+-inject Provider en MetaMask: https://eips.ethereum.org/EIPS/eip-1193
+-Conectar la Wallet: https://eips.ethereum.org/EIPS/eip-1102
+-Standars para la wallet: https://eips.ethereum.org/EIPS/eip-2255
 
 
 
