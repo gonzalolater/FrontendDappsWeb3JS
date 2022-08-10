@@ -1,7 +1,10 @@
+import { Route } from "react-router-dom";
+import Home from "./views/home";
+
 function App() {
   return (
     <>
-      <p>Hello Word</p>
+      <Route path="/" exact component={Home} />
     </>
   );
 }
